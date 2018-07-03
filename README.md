@@ -37,4 +37,5 @@ But Kramdown doesn't like the single dolla sign convention for inline equations.
 ```
 
 Copyright (c) 2018 Brendan Hasz
+
 Licensed under the MIT License
